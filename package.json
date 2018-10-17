@@ -1,6 +1,6 @@
 {
   "name": "autobind-decorator",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Decorator for binding method to an object",
   "main": "lib/index.js",
   "types": "./index.d.ts",
@@ -28,6 +28,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andreypopp/autobind-decorator.git"
+    "url": "git+https://github.com/gigsmart/autobind-decorator.git"
   }
 }
